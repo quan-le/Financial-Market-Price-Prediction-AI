@@ -1,0 +1,20 @@
+{
+  "test_mse": 0.0019505422096699476,
+  "test_mae": 0.03670058026909828,
+  "directional_acc": 0.5,
+  "best_grid": {
+    "model": "LSTM",
+    "params": {
+      "lr": 0.0003,
+      "cnn_channels": 64,
+      "lstm_hidden": 128,
+      "lstm_layers": 1,
+      "fc_hidden": 64,
+      "dropout": 0.2
+    },
+    "val_mse": 0.0019501778297126293,
+    "val_mae": 0.03839339315891266,
+    "val_loss": 0.001797650009393692,
+    "directional_acc": 0.3333333333333333
+  }
+}
