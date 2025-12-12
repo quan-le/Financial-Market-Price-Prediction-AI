@@ -313,3 +313,4 @@ TSWLatexianTemp*
 #*Notes.bib
 data/config/api_keys.json
 data/config/pairs_config.yaml
+config.env
