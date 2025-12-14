@@ -1,0 +1,10 @@
+pairs:
+  - symbol: "AAPL"
+    source: "yahoo"
+    asset_class: "stock"
+  - symbol: "BTC-USD"
+    source: "yahoo"
+    asset_class: "crypto"
+  - symbol: "EUR/USD"
+    source: "alpha_vantage"
+    asset_class: "fx"
