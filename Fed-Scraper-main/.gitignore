@@ -2,3 +2,7 @@
 __pycache__/
 .DS_Store
 scrapy.log
+<<<<<<< HEAD
+/data/processed/daily_embeddings
+/Fed-Scraper-main
+data/processed/embeddings.npy
