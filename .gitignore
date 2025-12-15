@@ -314,3 +314,9 @@ TSWLatexianTemp*
 data/config/api_keys.json
 data/config/pairs_config.yaml
 config.env
+<<<<<<< HEAD
+/data/processed/daily_embeddings
+/Fed-Scraper-main
+=======
+>>>>>>> parent of 0edb115 (implement FED speeches processing and embedding)
+data/processed/embeddings.npy
