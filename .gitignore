@@ -320,3 +320,5 @@ config.env
 =======
 >>>>>>> parent of 0edb115 (implement FED speeches processing and embedding)
 data/processed/embeddings.npy
+data/processed/speech_metadata.csv
+data/processed/sentence_level/sentence_level.csv
