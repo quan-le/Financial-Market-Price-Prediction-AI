@@ -322,3 +322,4 @@ config.env
 data/processed/embeddings.npy
 data/processed/speech_metadata.csv
 data/processed/sentence_level/sentence_level.csv
+.DS_Store
